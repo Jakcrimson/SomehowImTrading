@@ -1,0 +1,2 @@
+# SomehowImTrading
+Experimental daytrading bot
