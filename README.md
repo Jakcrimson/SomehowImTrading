@@ -1,4 +1,4 @@
 # SomehowImTrading
 Experimental daytrading bot
 
-![alt text](image.png)
+![](assets/image.png)
